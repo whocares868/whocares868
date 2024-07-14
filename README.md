@@ -1,4 +1,4 @@
-- Hi I'm Jumana.
+- Hello, I'm Jumana.
 - Beginner/intermediate python coder.
 - Currently learning python.
 - You can contact me on discord.
