@@ -1,7 +1,7 @@
 - Name: Jumana
 - Languages: Python
 - Contact: Discord
-- Projects:
+- Projects: Python hangman game(gui), python calculator app(gui)
 - 
 
 <!---
